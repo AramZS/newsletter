@@ -26,7 +26,15 @@
 			
 				<header>
 				<div id="title">
+					Newsletter title.
 				</div>
+				<nav>
+					<ul>
+						<li>Nav Item 1</li>
+						<li>Nav Item 2</li>
+					</ul>
+				</nav>
+				<div id="topstory">	
 					<hgroup>
 						<h1>Title</h1>
 						<h2>Sub-Title</h2>
@@ -35,6 +43,7 @@
 						<div id="action-top">
 						</div>
 					</article></aside>
+				</div>
 					<aside>
 						<div id="subnav">
 						
@@ -51,11 +60,13 @@
 						
 						</div>
 					</aside>
+					
 				</header>
 				
 				<div class="hfeed">
 				<section id="prev-content" class="body">
-					<div id="content-list">
+					<div id="prev-list">
+					<h3 class="prev-title">Title</h3>
 						<ol id="previews">
 							<li><article class="hentry">
 								<div class="story-prev">
@@ -87,7 +98,16 @@
 				
 				<section id="content" class="body">
 					<div id="content-list">
+						<h3 class="prev-title">Title</h3>
 						<ol id="previews">
+							<li><article class="hentry">
+								<div class="story-prev">
+									<div class="story-prev-title"><header>
+									</header></div>
+									<div class="prev-caption"><footer>
+									</footer></div>
+								</div>
+							</li>
 							<li><article class="hentry">
 								<div class="story-prev">
 									<div class="story-prev-title"><header>
@@ -150,9 +170,11 @@
 							</li>
 						</ol>
 					</div>
-					<div id="sidebar" class="sidebar-box">
-					</div>
 				</section>
+					<div id="sidebar" class="sidebar-box">
+						Sidebar
+					</div>
+				
 				
 				</div>
 			</div>
