@@ -248,7 +248,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Social media strategy</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Live, Learn, Lead</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
