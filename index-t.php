@@ -248,7 +248,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Letter from the editor</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Social media strategy</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -382,14 +382,9 @@
             </tr>
             <tr>
             	<td>
-                	<table>
-                    	<tr>
-                        	<td>
-                            	<img src="imgs/twittericon.png" width="32" height="32" alt="Head" />
-                            </td>
-                            <td><h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">&nbsp;Highlights</h2></td>
-                       </tr>
-                    </table>
+
+                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">&nbsp;Highlights</h2>
+
                 </td>
             </tr>
             <tr>
@@ -412,7 +407,14 @@
             </tr>
             <tr>
             	<td>
-                	<h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">Tweetables</h2>
+                	<table>
+                    	<tr>
+                        	<td>
+                            	<img src="imgs/twittericon.png" width="32" height="32" alt="Head" />
+                            </td>
+                            <td><h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">&nbsp;Tweetables</h2></td>
+                       </tr>
+                    </table>
                 </td>
             </tr>
             <tr>
