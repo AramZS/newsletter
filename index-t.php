@@ -53,11 +53,11 @@
 </table>
 <table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff" background="imgs/bg.png" style="color:#22290e; font-family:Arial, Helvetica, sans-serif;">
   <tr height="10">
-  	<td height="10" colspan="5"></td>
+  	<td height="10px" colspan="5">&nbsp;</td>
   </tr>
   <tr>
-    <td width="10">&nbsp;</td>
-    <td width="380"><h2 style="font-size:16px; font-weight:bold; font-family:arial; line-height:110%;">This week</h2>
+    <td width="10px">&nbsp;</td>
+    <td width="380" valign="top"><h2 style="font-size:16px; font-weight:bold; font-family:arial; line-height:110%;">This week</h2>
     	<table width="380" cellpadding="3" cellspacing="0" border="0">
         	<tr height="10">
             	<td colspan="2" height="10" bgcolor="#723063"></td>
@@ -65,7 +65,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Letter from the VP</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Voice of our VP</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -75,10 +75,7 @@
             </tr>
             <tr>
             	
-                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
-                	Interview with unit leadership<br />
-                    speaking on new events and increases in yearly reports.
-                </td>
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">What we've built this year, what we have to look towards in the future and what we can be thankful for. </td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -94,8 +91,8 @@
             </td>
             <td valign="top" style="font-size:14px;">
             	<br  />
-            	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            	<table width="220" cellpadding="0" cellspacing="0" border="0">
+            	Our Vice President's monthly podcast brings us to the end of the year with the latest updates on the direction of the university and upcoming opportunities for Mason staff to interface with the community.
+       	        <table width="220" cellpadding="0" cellspacing="0" border="0">
                 	<tr>
                     	<td height="10">
                         	
@@ -125,7 +122,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Our core values</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Living our Values</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -135,10 +132,7 @@
             </tr>
             <tr>
             	
-                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
-                	Interview with unit leadership<br />
-                    speaking on new events and increases in yearly reports.
-                </td>
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">OIPS brings our core values into focus with International Student thanksgiving. </td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -154,7 +148,8 @@
             </td>
             <td valign="top" style="font-size:14px;">
             	<br  />
-            	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            	<p>Birgit Deebeerst speaks to us about the OIPS thanksgiving event, where her office engaged with our values to foster student success, embrace differences and show we care. </p>
+              <p>Here's how.</p>
             	<table width="220" cellpadding="0" cellspacing="0" border="0">
                 	<tr>
                     	<td height="10">
@@ -187,7 +182,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Professional development</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Leading With Action</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -197,10 +192,7 @@
             </tr>
             <tr>
             	
-                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
-                	Interview with unit leadership<br />
-                    speaking on new events and increases in yearly reports.
-                </td>
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">The University Life student staff tells us a little about themselves and what they hope for this season. </td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -214,11 +206,10 @@
             </td>
             <td width="10">
             </td>
-            <td valign="top" style="font-size:14px;">
-            	<br  />
-            	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            	<table width="220" cellpadding="0" cellspacing="0" border="0">
-                	<tr>
+            <td valign="top" style="font-size:14px;"><p><br />
+              We spoke to some of the students that work with us every day to get some insight into how they're doing this year and what they look forward to in the next. </p>
+              <table width="220" cellpadding="0" cellspacing="0" border="0">
+<tr>
                     	<td height="10">
                         	
                         </td>
@@ -228,7 +219,7 @@
                         
                         </td>
                         <td align="right" bgcolor="#91ae3d" height="50" >
-                        	Read&nbsp;&nbsp;&nbsp;
+                        	Watch&nbsp;&nbsp;&nbsp;
                         </td>
                     </tr>
                 </table>
@@ -241,14 +232,16 @@
         </table>       
         
         
-    	<table width="380" cellpadding="3" cellspacing="0" border="0">
+        <table width="380" cellpadding="3" cellspacing="0" border="0">
         	<tr height="10">
             	<td colspan="2" height="10" bgcolor="#723063"></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Live, Learn, Lead</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Partners in<br />
+                  Mason's Future
+                </h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -259,9 +252,67 @@
             <tr>
             	
                 <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
-                	Interview with unit leadership<br />
-                    speaking on new events and increases in yearly reports.
-                </td>
+                	The MAP-Works program aims to increase Mason's student retention. How can you help?</td>
+            </tr>
+            <tr>
+            <td colspan="3" height="10"></td>
+            </tr>
+    	</table>
+        <table cellpadding="0" cellspacing="0" border="0" width="380">
+        	
+        <tr>
+            <td width="150" valign="middle">
+       	    <img src="imgs/aram.jpg" width="150" height="150" alt="Head" />
+            </td>
+            <td width="10">
+            </td>
+            <td valign="top" style="font-size:14px;">
+            	<p>Mason's new initiative aims to identify those not being fully served and connect them with faculty and staff</p>
+            	<p>Learn how to be part of the support network for at risk students.</p>
+            	<table width="220" cellpadding="0" cellspacing="0" border="0">
+               	  <tr>
+                    	<td height="10">
+                        	
+                        </td>
+                  </tr>
+                    <tr>
+                    	<td width="160">
+                        
+                        </td>
+                        <td align="right" bgcolor="#91ae3d" height="50" >Read&nbsp;&nbsp;&nbsp;
+                        </td>
+                    </tr>
+              </table>
+          </td>
+        </tr>
+        <tr height="50">
+        	<td height="50">
+            </td>
+        </tr>
+        </table>
+        
+        
+    	<table width="380" cellpadding="3" cellspacing="0" border="0">
+        	<tr height="10">
+            	<td colspan="2" height="10" bgcolor="#723063"></td>
+                <td bgcolor="#51b4b6"></td>
+            </tr>
+            <tr height="50">
+            	<td width="10" bgcolor="#db3b26"></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Innovating a 
+                  Better Mason
+              </h1></td>
+                <td bgcolor="#51b4b6"></td>
+            </tr>
+            <tr height="4">
+            	
+                <td colspan="3" bgcolor="#51b4b6" height="4"></td>
+                
+            </tr>
+            <tr>
+            	
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
+                	We've got a monthly newsletter! Find out how it works and how to get on the front page. </td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -277,7 +328,7 @@
             </td>
             <td valign="top" style="font-size:14px;">
             	<br  />
-            	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            	Welcome to the first issue of Pursuit, the monthly newsletter for University Life. You'll be seeing us in your inbox on the first Wednesday of every month. 
             	<table width="220" cellpadding="0" cellspacing="0" border="0">
                 	<tr>
                     	<td height="10">
@@ -305,7 +356,7 @@
     <td width="20" background="imgs/bg-vert.gif">&nbsp;</td>
     <td width="180" valign="top">
     	<table cellpadding="0" cellspacing="0" border="0" width="180">
-        	<tr>
+        	<tr valign="top">
             	<td valign="top">
                 	<h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">Upcoming Events</h2>
                 </td>
@@ -394,17 +445,43 @@
             </tr>
             <tr>
             	<td style="font-size:14px;">
-                	Great new information about events on some stuff.<br /><br />
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.<br /><br />
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<br /><br />
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                	<p>Our university is leading the way into the distance learning future with the 4-VA program. <a href="http://news.gmu.edu/articles/7991" target="_blank" style="color:#360">Find out more about Gov. McDonnell's visit to our campus.</a></p>
+                	<p><a href="http://www.connect2mason.com/content/disney-styled-wonderful-world-mason-chosen-theme-homecoming-2012" target="_blank" style="color:#360">The Wonderful World of Mason is this year's homecoming theme. </a></p>
+                	<p>Our student news website Connect2Mason won the Pacemaker, a prestigious college media award. <a href="http://www.connect2mason.com/content/site-associated-collegiate-press-online-pacemaker-2011" target="_parent" style="color:#360">You can congratulate them in the comments</a>!</p>
+                	<p>Mason Recreation will be joining our unit. Welcome to University Life!</p></td>
+            </tr>
+            
+                        <tr>
+            	<td height="20">
+                	
                 </td>
+            </tr>
+            <tr>
+            	<td>
+
+                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">Find Opportunities to collaborate.</h2>
+
+                </td>
+            </tr>
+            <tr>
+            	<td height="10">
+                	
+                </td>
+            </tr>
+            <tr>
+            	<td style="font-size:14px;"><p>Help students come out from under pressure during <strong>De-Stress fest</strong>. The festival runs from December 3 to 17 and is being organized by Student Involvement. </p>
+            	  <p>Want to get involved in <strong>De-Stress fest</strong>? Contact Kyli Kauth at <a href="#" style="color:#360">kmkauth@gmu.edu</a> to get your event on the calendar. </p>
+            	  <p>Student Media is working hard to bring an easy-to-use, mobile compatible, and search optimized blogging and site building platform to staff, students and faculty. </p>
+            	  <p>Engage with students online using <strong>onMason.com</strong>. Contact Aram Zucker-Scharff at Student Media, <a href="#" style="color:#360">azuckers@gmu.edu</a>.</p>
+            	  <p>Arlington campus is having a <strong>winter food drive</strong>. In the area and curious how you can contribute? </p>
+            	  <p>Send an email to Arlington campus's University Life director Lori Cohen at <a href="#" style="color:#360">lcohen@gmu.edu</a>.</p></td>
             </tr>
             <tr>
             	<td height="20">
                 	
                 </td>
             </tr>
+            
             <tr>
             	<td>
                 	<table>
@@ -424,13 +501,11 @@
             </tr>   
             <tr>
             	<td style="font-size:12px;">
-                	Great info on University Life in 140 characters or less. Fill your feed!
-                    <br /><br />
-                    Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
-                    <br /><br />
-                    Tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.
-                    <br /><br />
-                </td>
+                	<p>Great info on University Life in 140 characters or less. Fill your feed!
+           	    </p>
+               	<p>Find the De-Stress cart in the JC from 5 to 6 every Thursday and get a snack. <a href="#" style="color:#360">Tweet it out!</a></p>
+               	<p>What are those black and white boxes appearing all over campus? They're QR codes! Learn how to use them at http://bit.ly/xxxxx. <a href="#" style="color:#360">Tweet it out!</a></p>
+               	<p>&nbsp;</p></td>
             </tr>         
         </table>
     </td>
