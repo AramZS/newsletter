@@ -57,7 +57,7 @@
   </tr>
   <tr>
     <td width="10px">&nbsp;</td>
-    <td width="380" valign="top"><h2 style="font-size:16px; font-weight:bold; font-family:arial; line-height:110%;">This week</h2>
+    <td width="380" valign="top"><h2 style="font-size:16px; font-weight:bold; font-family:arial; line-height:110%; margin:0; padding:0; padding-bottom:12px;">This month</h2>
     	<table width="380" cellpadding="3" cellspacing="0" border="0">
         	<tr height="10">
             	<td colspan="2" height="10" bgcolor="#723063"></td>
