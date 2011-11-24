@@ -65,7 +65,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320px"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Voice of our VP</h1></td>
+                <td bgcolor="#91ae3d" width="320px"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Voice of the VP</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -75,7 +75,7 @@
             </tr>
             <tr>
             	
-                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">What we've built this year, what we have to look towards in the future and what we can be thankful for. </td>
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">A monthly podcast from Sandy Scherrens about what's happaned in University Life and what's to come. </td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -122,7 +122,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Living our Values</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">To the Core</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -132,7 +132,7 @@
             </tr>
             <tr>
             	
-                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">OIPS brings our core values into focus with International Student thanksgiving. </td>
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">Stories that embody our University Life values. </td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -182,7 +182,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Leading With Action</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Director's Pick</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -192,7 +192,7 @@
             </tr>
             <tr>
             	
-                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">The University Life student staff tells us a little about themselves and what they hope for this season. </td>
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">Selected moments of life, learning and leadership.</td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -239,9 +239,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Partners in<br />
-                  Mason's Future
-                </h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Shared Success</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -251,8 +249,7 @@
             </tr>
             <tr>
             	
-                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
-                	The MAP-Works program aims to increase Mason's student retention. How can you help?</td>
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">Collaborating for a better Mason.</td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -267,7 +264,7 @@
             <td width="10">
             </td>
             <td valign="top" style="font-size:14px;">
-            	<p>Mason's new initiative aims to identify those not being fully served and connect them with faculty and staff</p>
+            	<p>Mason's new MAP-Works initiative aims to identify those not being fully served and connect them with faculty and staff</p>
             	<p>Learn how to be part of the support network for at risk students.</p>
             	<table width="220" cellpadding="0" cellspacing="0" border="0">
                	  <tr>
@@ -299,9 +296,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Innovating a 
-                  Better Mason
-              </h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Innovation in Action</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -312,7 +307,7 @@
             <tr>
             	
                 <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
-                	We've got a monthly newsletter! Find out how it works and how to get on the front page. </td>
+                	Building new traditions through change. </td>
             </tr>
             <tr>
             <td colspan="3" height="10"></td>
@@ -351,6 +346,46 @@
         </tr>
         </table>
         
+    	<table width="380" cellpadding="3" cellspacing="0" border="0">
+        	<tr height="10">
+            	<td colspan="2" height="10" bgcolor="#723063"></td>
+                <td bgcolor="#51b4b6"></td>
+            </tr>
+            <tr height="50">
+            	<td width="10" bgcolor="#db3b26"></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Stillpoints</h1></td>
+                <td bgcolor="#51b4b6"></td>
+            </tr>
+            <tr height="4">
+            	
+                <td colspan="3" bgcolor="#51b4b6" height="4"></td>
+                
+            </tr>
+            <tr>
+            	
+                <td colspan="3" bgcolor="#51b4b6" style="color:#ffffff; font-size:12px;">
+                	A moment to reflect.</td>
+            </tr>
+
+    	</table>
+        <table cellpadding="0" cellspacing="0" width="380" border="3px" bordercolor="#51b4b6">
+            <tr style="border:0;">
+            <td style="border:0;" colspan="3" height="10"></td>
+            </tr>	
+        <tr style="border:0;">
+            <td width="10" style="border:0;">
+            </td>
+        <td valign="top" style="font-size:14px; border:0;">A single idea you should take a moment to think about this month. </td>
+        	<td style="border:0;" width="10">
+            </td>
+        </tr>
+        <tr style="border:0;" height="20">
+        	<td style="border:0;" height="20">
+            </td>
+            
+        </tr>
+        </table>
+
                         
     </td>
     <td width="20" background="imgs/bg-vert.gif">&nbsp;</td>
