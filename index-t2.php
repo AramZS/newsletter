@@ -494,7 +494,7 @@
             <tr>
             	<td>
 
-                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">Find Opportunities to collaborate.</h2>
+                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">Collaboration Opportunities</h2>
 
                 </td>
             </tr>
