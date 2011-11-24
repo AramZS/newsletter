@@ -47,7 +47,7 @@
 </table>
 <table width="600" border="0" cellpadding="0" cellspacing="0" height="20">
     <tr>
-    	<td bgcolor="#91ae3d" style="color:#ffffff; font-family:Arial, Helvetica, sans-serif;"><img src="imgs/ulifeline.png" width="138" height="20" alt="University Life" /><img src="imgs/newslifeline.png" width="138" height="20" alt="newsletter" /></td>
+    	<td bgcolor="#91ae3d" style="color:#ffffff; font-family:Arial, Helvetica, sans-serif;"><img src="imgs/bannersubhead.png" width="370" height="20" alt="Honoring who we are and what we do." /></td>
         <td width="200" bgcolor="#91ae3d" style="color:#ffffff; font-family:Arial, Helvetica, sans-serif; text-align:right; font-size:12px">Issue 1: October 23, 2011</td>
     </tr>
 </table>
