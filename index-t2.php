@@ -65,7 +65,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Voice of our VP</h1></td>
+                <td bgcolor="#91ae3d" width="320px"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Voice of our VP</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -122,7 +122,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Living our Values</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Living our Values</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -182,7 +182,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Leading With Action</h1></td>
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Leading With Action</h1></td>
                 <td bgcolor="#51b4b6"></td>
             </tr>
             <tr height="4">
@@ -239,7 +239,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Partners in<br />
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Partners in<br />
                   Mason's Future
                 </h1></td>
                 <td bgcolor="#51b4b6"></td>
@@ -299,7 +299,7 @@
             </tr>
             <tr height="50">
             	<td width="10" bgcolor="#db3b26"></td>
-                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%;">Innovating a 
+                <td bgcolor="#91ae3d" width="320"><h1 style="font-size:28px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Innovating a 
                   Better Mason
               </h1></td>
                 <td bgcolor="#51b4b6"></td>
