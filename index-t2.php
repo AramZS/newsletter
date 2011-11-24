@@ -13,7 +13,7 @@
 	<tr>
     	<td width="300"><img src="imgs/ulifeheader.png" width="300" height="100" alt="pursuit" /></td>
         <td>
-        	<table width="300" cellpadding="0" cellspacing="0" style="font-size:10px; text-align:right;">
+        	<table bgcolor="#91ae3d" width="300" cellpadding="0" cellspacing="0" style="font-size:10px; text-align:right;">
             	<tr height="70">
                 	<td width="100" height="70">
                	    <img src="imgs/head1.png" width="70" height="70" alt="Story One" />
@@ -375,7 +375,23 @@
         <tr style="border:0;">
             <td width="10" style="border:0;">
             </td>
-        <td valign="top" style="font-size:14px; border:0;">A single idea you should take a moment to think about this month. </td>
+        <td valign="top" style="font-size:14px; border:0;"><p>This is the place for a single idea you should take a moment to think about this month. </p>
+        <p style="font-size:10px;">Where past and future are gathered. Neither movement from nor towards,
+          <br />
+          Neither ascent nor decline. Except for the point, the still point,
+          <br />
+          There would be no dance, And there is only the dance.<br />
+I can only say, there we have been: but I cannot say where. <br />
+And I cannot say, how long, for that is to place it in time. <br />
+The inner freedom from the practical desire.<br />
+The release from action and suffering, release from the inner<br />
+And the outer compulsion, yet surrounded<br />
+By a grace of sense, a white light still and moving,<br />
+<em>Erhebung</em> without motion, concentration<br />
+Without elimination both a new world<br />
+And the old made explicit, understood</p>
+        <p style="font-size:10px;"><br />
+          -T.S. Eliot, Four Quartets        </p></td>
         	<td style="border:0;" width="10">
             </td>
         </tr>
@@ -385,6 +401,12 @@
             
         </tr>
         </table>
+        <table height="12px">
+        	<tr>
+            	<td height="12">
+                </td>
+            </tr>
+        </table>
 
                         
     </td>
@@ -393,7 +415,7 @@
     	<table cellpadding="0" cellspacing="0" border="0" width="180">
         	<tr valign="top">
             	<td valign="top">
-                	<h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">Upcoming Events</h2>
+                	<h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Upcoming Events</h2>
                 </td>
             </tr>
             <tr>
@@ -411,9 +433,6 @@
                   <li>
            	      <a href="http://today.gmu.edu/57328/" style="color:#360">Prince William Little Theater: One Flew Over the Cuckoo's Nest</a><br />
             	  Great new show.</li><br />
-                  <li>
-           	      <a href="http://today.gmu.edu/57956/" style="color:#360">Immigration Film Series: Sin Pais and Papers</a><br />
-            	  Documentary films.</li><br />
           	    </ul>
               </td>
             </tr>
@@ -424,7 +443,7 @@
             </tr>
             <tr>
             	<td>
-                	<h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">New Faces</h2>
+                	<h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">New Faces</h2>
                 </td>
             </tr>
             <tr>
@@ -469,7 +488,7 @@
             <tr>
             	<td>
 
-                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">&nbsp;Highlights</h2>
+                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">&nbsp;Highlights</h2>
 
                 </td>
             </tr>
@@ -480,10 +499,10 @@
             </tr>
             <tr>
             	<td style="font-size:14px;">
-                	<p>Our university is leading the way into the distance learning future with the 4-VA program. <a href="http://news.gmu.edu/articles/7991" target="_blank" style="color:#360">Find out more about Gov. McDonnell's visit to our campus.</a></p>
+                	<p> Our university is leading the way into the distance learning future with the 4-VA program. <a href="http://news.gmu.edu/articles/7991" target="_blank" style="color:#360">Find out more about Gov. McDonnell's visit to our campus.</a></p>
                 	<p><a href="http://www.connect2mason.com/content/disney-styled-wonderful-world-mason-chosen-theme-homecoming-2012" target="_blank" style="color:#360">The Wonderful World of Mason is this year's homecoming theme. </a></p>
-                	<p>Our student news website Connect2Mason won the Pacemaker, a prestigious college media award. <a href="http://www.connect2mason.com/content/site-associated-collegiate-press-online-pacemaker-2011" target="_parent" style="color:#360">You can congratulate them in the comments</a>!</p>
-                	<p>Mason Recreation will be joining our unit. Welcome to University Life!</p></td>
+<p>Our student news website Connect2Mason won the Pacemaker, a prestigious college media award. <a href="http://www.connect2mason.com/content/site-associated-collegiate-press-online-pacemaker-2011" target="_parent" style="color:#360">You can congratulate them in the comments</a>!</p>
+           	  <p>Mason Recreation will be joining our unit. Welcome to University Life!</p></td>
             </tr>
             
                         <tr>
@@ -494,7 +513,7 @@
             <tr>
             	<td>
 
-                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">Collaboration Opportunities</h2>
+                            <h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Collaboration Opportunities</h2>
 
                 </td>
             </tr>
@@ -517,6 +536,52 @@
                 </td>
             </tr>
             
+                        <tr>
+            	<td>
+
+                            <h2 style="font-size:19px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Add to Your Library</h2>
+
+                </td>
+            </tr>
+            <tr>
+            	<td height="10">
+                	
+                </td>
+            </tr>
+            <tr>
+            	<td style="font-size:14px;"><p><a href="#" style="color:#360">The minutes from our latest meeting.</a> </p>
+           	    <p><a href="#" style="color:#360">New payroll procedures.</a></p></td>
+            </tr>
+            <tr>
+            	<td height="20">
+                	
+                </td>
+            </tr>
+            
+            
+                                    <tr>
+            	<td>
+
+                            <h2 style="font-size:19px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">Professional Development</h2>
+
+                </td>
+            </tr>
+            <tr>
+            	<td height="10">
+                	
+                </td>
+            </tr>
+            <tr>
+            	<td style="font-size:14px;"><p>Tools for Supervision I, webinar in ULife Conference room, 1:00pm 12/11/11. </p>
+           	    <p>Tools for Supervision II, webinar in ULife Conference room, 1:00pm 12/18/11.</p></td>
+            </tr>
+            <tr>
+            	<td height="20">
+                	
+                </td>
+            </tr>
+            
+            
             <tr>
             	<td>
                 	<table>
@@ -524,7 +589,7 @@
                         	<td>
                             	<img src="imgs/twittericon.png" width="32" height="32" alt="Head" />
                             </td>
-                            <td><h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%;">&nbsp;Tweetables</h2></td>
+                            <td><h2 style="font-size:20px; font-weight:bold; font-family:arial; line-height:110%; margin:0;">&nbsp;Tweetables</h2></td>
                        </tr>
                     </table>
                 </td>
